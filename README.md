@@ -1,2 +1,4 @@
 # f1
-thihs is myfirst  git respitory
+this is myfirst  git respitory 
+Author - vikas nirmal
+
